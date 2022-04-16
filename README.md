@@ -1,6 +1,10 @@
 # org
 Repo dla organizacji :)
 
+# art
+
+https://www.dafont.com/minecraft.font?text=NMKS
+
 # social media
 
 ## instancje
